@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.github.io/jerrychico/DouanlaJerry",
+  "homepage": "https://jerrychico.github.io/DouanlaJerry",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
