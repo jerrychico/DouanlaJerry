@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://jerrychico.github.io/DouanlaJerry",
+  "homepage": "https://github.github.io/jerrychico/DouanlaJerry",
   "scripts": {
-    "deploy": "gh-pages -d /dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
