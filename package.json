@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://jerrychico.github.io/DouanlaJerry",
   "scripts": {
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d /dist"
   },
   "keywords": [],
   "author": "",
