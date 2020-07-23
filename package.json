@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DouanlaJerry.github.io/Zebsite",
+  "homepage": "https://jerrychico.github.io/DouanlaJerry",
   "scripts": {
     "deploy": "gh-pages"
   },
